@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/macbookpro/Desktop/projects/remix-press/app/routes/posts/hello/index.jsx?browser", "../../../../../app/routes/posts/hello/index.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/macbookpro/Desktop/projects/remix-press/app/routes/posts/hello/index.jsx\";", "export default function Posts() {\n    return (\n      <main>\n        <h1>hello</h1>\n      </main>\n    );\n  }"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,iBAAiB;AAC5B,SACE,oCAAC,QAAD,MACE,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}

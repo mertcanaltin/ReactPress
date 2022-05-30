@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/macbookpro/Desktop/projects/remix-press/app/routes/index.jsx?browser", "../../../app/routes/index.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/macbookpro/Desktop/projects/remix-press/app/routes/index.jsx\";", "import { Link } from \"@remix-run/react\";\nexport default function Index() {\n  return (\n    <div className=\"mx-auto mt-16 max-w-7xl text-center\">\n  <Link\n    to=\"/posts\"\n    className=\"text-xl text-blue-600 underline\"\n  >\n    Blog Posts\n  </Link>\n</div>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AACe,iBAAiB;AAC9B,SACE,oCAAC,OAAD;AAAA,IAAK,WAAU;AAAA,KACjB,oCAAC,MAAD;AAAA,IACE,IAAG;AAAA,IACH,WAAU;AAAA,KACX;AAAA;",
+  "names": []
+}
